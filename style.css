@@ -28,6 +28,7 @@ input{
     border:none;
     border-radius:5px;
     padding:7px;
+    border:2px solid dodgerblue;
     }
 .btn-search{
     color:#ffffff;
